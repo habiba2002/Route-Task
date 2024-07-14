@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Route-Task/static/css/main.9a577b4c.css",
+    "main.js": "/Route-Task/static/js/main.c2c833ca.js",
+    "index.html": "/Route-Task/index.html",
+    "main.9a577b4c.css.map": "/Route-Task/static/css/main.9a577b4c.css.map",
+    "main.c2c833ca.js.map": "/Route-Task/static/js/main.c2c833ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a577b4c.css",
+    "static/js/main.c2c833ca.js"
+  ]
+}
